@@ -52,3 +52,12 @@ h2{
     background-position: left;
     background-repeat: no-repeat;
 }
+#full-stack-web-dev{
+    border-left: 7px solid tomato;
+}
+#junior-web-developer{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
+}
